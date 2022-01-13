@@ -1,13 +1,3 @@
-# kazakh-names
-Kazakh names, from book "Kazakh names", Almaty, 1988.
-The data is in /data as JSON and TXT format.
-
-## about NamSor API
-Please obtain an API from [namsor.app](https://namsor.app/)
-
-## table of content
-|Kazakh name|family name|patronym|middle name|
-|---|---|---|---|
 |АБАЙ |Абаев Абаева ||Абайқызы Абайұлы |
 |АБАЙДІЛДАН |Абайділданов Абайділданова ||' Абайділданқызы Абайділданұлы |
 |АБАҚАН |Абақаиова Абақанов ||Абақанқызы Абақанұлы |
