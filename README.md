@@ -1,6 +1,6 @@
 # kazakh-names
 Kazakh names, from book "Kazakh names", Almaty, 1988.
-The data is in /data as JSON and TXT format.
+The data is in /data as JSON and TXT format. See also [Kazakh names of Kazakhstan](https://namesorts.com/2022/09/12/kazakh-names-of-kazakhstan/).
 
 ## about NamSor API
 Please obtain an API from [namsor.app](https://namsor.app/)
